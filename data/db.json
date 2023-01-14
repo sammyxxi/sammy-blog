@@ -29,6 +29,12 @@
       "body": "qweqewqe",
       "author": "mario",
       "id": 5
+    },
+    {
+      "title": "Test",
+      "body": "test redirect",
+      "author": "mario",
+      "id": 6
     }
   ]
 }
